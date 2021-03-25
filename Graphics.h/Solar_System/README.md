@@ -21,7 +21,7 @@ Solar System model-2
 
 Data display screen
 
-![Data display screen]https://github.com/Kashyap-Nirmal/CPP-practice/blob/main/Graphics.h/Solar_System/5.png)
+![Data display screen](https://github.com/Kashyap-Nirmal/CPP-practice/blob/main/Graphics.h/Solar_System/5.png)
 
 Helio Centric Solar System
 
@@ -32,7 +32,7 @@ The first among Kepler's 3 Laws states :
 
 Solar System with elliptical orbit
 
-![Solar System with elliptical orbit](https://github.com/Kashyap-Nirmal/Solar_System/blob/master/Solar_System.jpg)
+![Solar System with elliptical orbit](https://github.com/Kashyap-Nirmal/CPP-practice/blob/main/Graphics.h/Solar_System/Solar_System.jpg)
 
 Note: 
 
