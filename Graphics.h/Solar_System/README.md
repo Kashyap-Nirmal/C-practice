@@ -38,6 +38,6 @@ Note:
 
 -We have added the 'graphics.h' library to 'Codeblocks:IDE'.
 
--Here we have assumed my solar system model to be based on Kepler's law of elliptical orbits and heliocentric theory.
+-Here we have assumed the solar system model to be based on Kepler's law of elliptical orbits and heliocentric theory.
 
 -We did this small project in 2017.
