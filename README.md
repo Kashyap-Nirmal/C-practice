@@ -1,8 +1,8 @@
 [![Hello programmer Welcome](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Kashyap-Nirmal)
-![Lines of code](https://img.shields.io/tokei/lines/github/Kashyap-Nirmal/CPP-Practice?style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/Kashyap-Nirmal/CPP-practice?style=plastic)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kashyap-nirmal/) 
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:kashyapnirmal18@gmail.com)
-![Last Commit](https://img.shields.io/github/last-commit/Kashyap-Nirmal/CPP-Practice?style=plastic)
+![Last Commit](https://img.shields.io/github/last-commit/Kashyap-Nirmal/CPP-practice?style=plastic)
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=CPP%20Practice&fontSize=60&fontAlignY=70" /> 
